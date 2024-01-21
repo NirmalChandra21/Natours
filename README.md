@@ -1,2 +1,2 @@
 # Natours
-hi
+https://zeld-natours.netlify.app/
